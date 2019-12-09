@@ -1,8 +1,0 @@
-*** More Options
-The system has extra options which can be useful depending on the
-case. Below are listed all the options of the system.
-
-- -use_frontend: enables local frontend uploads.
-- -use_tb: enable thingsboard uploads.
-- -save_video: This option allows to save a video (avi format) of the
-  processed stream.
