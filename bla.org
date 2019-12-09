@@ -1,0 +1,7 @@
+** BLA
+
+The script to on a terminal:
+
+#+BEGIN_SRC sh
+$ ./run_camera.sh <frontend_server_ip> <config_file> <tb_config_file> <attributes_file> <num_channels>
+#+END_SRC
